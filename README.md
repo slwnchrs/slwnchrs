@@ -1,26 +1,36 @@
-<h1 align="center">Hi 👋, I'm Sev</h1>
-<h3 align="center">I build big and small potato stuffs!🥔</h3>
+# hey, i'm sev 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slwnchrs&label=Profile%20views&color=0e75b6&style=flat" alt="slwnchrs" /> </p>
+**building things, breaking things, and figuring it out along the way.**
 
-- 🔭 I’m currently working on [UdD STE Marketing Website](https://github.com/CSITS-Programming/Ste-marketing-)
+i like turning random ideas into something real, whether that's a game, an app, or a website. sometimes it works on the first try. usually, it doesn't.
 
-- 🌱 I’m currently learning **Unity Game Engine, Flutter, and SQL**
+🥔 *professional potato enthusiast.*
 
-- 👯 I’m looking to collaborate on [Swing Stack (Tetris inspired)](https://github.com/slwnchrs/SWING-STACK-Latest-main)
+---
 
-- 📫 How to reach me **ianian13ei@gmail.com**
+### currently
 
-- ⚡ Fun fact **I saw my ex with her new boyfriend :(**
+- 🌱 learning **Unity, Flutter, and SQL**
+- 🔭 building the [UdD STE Marketing Website](https://github.com/CSITS-Programming/Ste-marketing-)
+- 🎮 collaborating on [Swing Stack](https://github.com/slwnchrs/SWING-STACK-Latest-main), a Tetris-inspired game
+- 📫 reach me at **[ianian13ei@gmail.com](mailto:ianian13ei@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
+### things i work with
+
 <p align="left">
-<a href="https://instagram.com/slwnchrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slwnchrs" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=cs,unity,flutter,dart,java,mysql,php,html,css,vue,git,figma,blender&theme=light" alt="Technologies I work with" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### around the internet
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slwnchrs&show_icons=true&locale=en" alt="slwnchrs" /></p>
+<a href="https://instagram.com/slwnchrs">instagram ↗</a> · <a href="https://github.com/slwnchrs">github ↗</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slwnchrs&" alt="slwnchrs" /></p>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slwnchrs&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=808080&icon_color=808080&include_all_commits=true" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <sub>made with curiosity, caffeine, and questionable decisions.</sub>
+</p>
